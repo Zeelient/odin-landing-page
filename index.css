@@ -2,8 +2,26 @@ body{
     background-color:#1F2937 ;
 }
 
+div {
+    padding-top: 30px;
+    text-align: center;
+    color: #EEEEEE;
+  }
+
 .box1 {
 
-    padding: 30px;
-    color: #13882F6;
+    padding: 40px;
+    background-color: #ffffff;
+}
+
+.box2 {
+
+    padding: 40px;
+    background-color: #e5e7eb;
+}
+
+.box3 {
+
+    padding: 40px;
+    background-color: #ffffff;
 }
