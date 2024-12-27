@@ -5,13 +5,25 @@
   body{
     background-color:#1F2937 ;
     height:1300px;
+    
 }
 
-header,h1,ul,li{
+header,h1{
   display:inline-block;
-  margin-inline: 30px;
-
+  margin-left: 150px;
 }
+
+ul{
+  display:inline-block;
+  margin-left: 800px;
+}
+
+li{
+  display:inline-block;
+  margin-left: 25px;
+}
+
+
 
 /*ul {
     list-style-type: none;
