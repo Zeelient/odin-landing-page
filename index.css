@@ -8,9 +8,9 @@
     
 }
 
-header,h1{
+.header_content h1{
   display:inline-block;
-  margin-left: 150px;
+  margin-left: 300px;
   padding-bottom: 30px;
 }
 
