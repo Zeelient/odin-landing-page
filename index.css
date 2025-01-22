@@ -24,9 +24,33 @@ li{
   margin-left: 25px;
 }
 
+
 .blue_box{
-  display:inline-block;
+
+  display:flex;
   margin-left: 300px;
+}
+
+.box_writing{
+
+padding-right: 80px;
+
+}
+
+.placeholder{
+  display:inline-block;
+  background-color: gray;
+  height: 300px;
+  width: 700px;
+
+}
+
+.placeholder p{
+
+text-align: center;
+line-height: 300px;
+
+  
 }
 
 
