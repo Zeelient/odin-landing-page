@@ -29,6 +29,7 @@ li{
 
   display:flex;
   margin-left: 300px;
+
 }
 
 .box_writing{
@@ -50,8 +51,27 @@ padding-right: 80px;
 text-align: center;
 line-height: 300px;
 
-  
+
 }
+
+
+.blue_button{
+  padding-top: 12px;
+}
+
+button{
+
+background-color: #3882F6;
+border-radius: 6px;
+border: none;
+width: 130px;
+height: 35px;
+color: white;
+
+
+}
+
+
 
 
 .boxes {
