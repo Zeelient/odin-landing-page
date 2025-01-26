@@ -40,9 +40,10 @@ padding-right: 80px;
 
 .placeholder{
   display:inline-block;
-  background-color: gray;
+  background-color: #808080;
   height: 300px;
   width: 700px;
+  color:white
 
 }
 
