@@ -102,6 +102,16 @@ top: -100px;
 
 display: flex;
 justify-content: center;
+/*
+evens space between boxes but too much, took into
+justify-content: space-evenly;
+*/
+}
+
+.box-container{
+/* so text doesn't extend beyond boundaries
+  max-width: 150px
+*/
 }
 
 .one, .two, .three, .four{
@@ -115,7 +125,11 @@ margin: 10px;
 }
 
 .descript1{
+  height: 150px;
+width: 150px;
+margin: 10px;
 color: #1F2937;
+
 }
 
 
