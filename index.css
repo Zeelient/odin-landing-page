@@ -102,16 +102,17 @@ top: -100px;
 
 display: flex;
 justify-content: center;
+
 /*
 evens space between boxes but too much, took into
 justify-content: space-evenly;
 */
 }
 
-.box-container{
-/* so text doesn't extend beyond boundaries
-  max-width: 150px
-*/
+.box-container1, .box-container2, .box-container3, .box-container4{
+/* so text doesn't extend beyond boundaries*/
+  max-width: 1000px
+
 }
 
 .one, .two, .three, .four{
@@ -120,12 +121,13 @@ border: 3px solid #3882F6;
 border-radius: 10px;
 height: 150px;
 width: 150px;
-margin: 10px;
+margin: 30px;
 
 }
 
-.descript1{
-  height: 150px;
+.descript1, .descript2, .descript3, .descript4{
+text-align: center;
+height: 150px;
 width: 150px;
 margin: 10px;
 color: #1F2937;
