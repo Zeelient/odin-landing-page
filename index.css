@@ -196,26 +196,40 @@ margin: 0 auto;
 
 
 .section4-content{
+  display: flex;
   padding: 240px;
   position: relative;
   align-items: center;
   justify-content: center;
   top: -150px;
   background-color: #ffffff;
+  
 
 }
 
 .section4-bluebox{
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
   height: 250px;
   width: 1500px;
   margin: 0 auto;
   background-color: #3882F6;
   border-radius: 20px;
+  
+  
 }
 
 .section4-boxcontent{
   display: flex;
+  justify-content: center;
+  
+
+}
+
+.section4-boxcontent-wrapper{
+
 }
 
 
