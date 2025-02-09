@@ -210,7 +210,7 @@ margin: 0 auto;
 .section4-bluebox{
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: left;
 
   height: 250px;
   width: 1500px;
@@ -224,13 +224,30 @@ margin: 0 auto;
 .section4-boxcontent{
   display: flex;
   justify-content: center;
+  padding-left: 350px;
   
 
 }
 
 .section4-boxcontent-wrapper{
-
+  padding-right: 400px;
 }
+
+.section4-maintext{
+  color: #ffffff;
+}
+
+
+
+.section4-button{
+  border: 3px solid #ffffff;
+
+  border-radius: 6px;
+
+  width: 130px;
+  height: 35px;
+}
+
 
 
 /*
@@ -244,17 +261,8 @@ margin: 0 auto;
   
 
 
-.section4-maintext{
-  color: #ffffff;
-}
 
-.section4-button{
 
-  color: #ffffff;
-  border-radius: 6px;
-border: solid;
-width: 130px;
-height: 30px;
 
 }*/
 
