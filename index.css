@@ -194,10 +194,61 @@ margin: 0 auto;
 
 }
 
-.section4-content {
 
-    padding: 240px;
-    position: relative;
-    top: -150px;
-    background-color: #ffffff;
+.section4-content{
+  padding: 240px;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  top: -150px;
+  background-color: #ffffff;
+
 }
+
+.section4-bluebox{
+
+  height: 250px;
+  width: 1500px;
+  margin: 0 auto;
+  background-color: #3882F6;
+  border-radius: 20px;
+}
+
+.section4-boxcontent{
+  display: flex;
+}
+
+
+/*
+
+
+
+
+}
+
+
+  
+
+
+.section4-maintext{
+  color: #ffffff;
+}
+
+.section4-button{
+
+  color: #ffffff;
+  border-radius: 6px;
+border: solid;
+width: 130px;
+height: 30px;
+
+}*/
+
+
+
+
+
+
+
+
+
